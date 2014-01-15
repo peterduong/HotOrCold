@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1, h2{
+	text-align: center;
+}
+
+h1 {
+	font-style: normal;
+	font-size: 58px;
+	clear: both;
+	line-height: 1.0em;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	color: #232323;
+	
+	display: block;
+}
+
+h2{
+	font-style: normal;
+	font-size: 25px;
+}
+
+.hot{
+	color: #EB2B25;
+}
+
+.cold{
+	color: #50CDF1;
+}
+
+input{
+	display:block;
+	font-size: 3em;
+	text-align: center;
+	margin: auto;
+	
+}
+
+div{
+	margin: 20px, auto;
+	text-align:center;
+	padding: 10px;
+}
+
+button{
+	font-size: 20px;
+	padding: 5px;
+	border-radius: 8px;
+}
+
+#submit_button{
+	background-color: #80FF00;
+}
+
+#newgame_button{
+	background-color: #0080FF;
+}
+
+#message{
+	font-size: 20px;
+	padding: 10px;
+}
+
+.errorMessage{
+	font-size: 20px;
+	color: #FF8040;
+	padding: 10px;
+}
+	
+	
